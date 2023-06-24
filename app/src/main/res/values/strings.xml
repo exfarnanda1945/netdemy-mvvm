@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Netdemy MVVM</string>
+    <string name="image_news">Image News</string>
+    <string name="news_title">News Title</string>
+</resources>
