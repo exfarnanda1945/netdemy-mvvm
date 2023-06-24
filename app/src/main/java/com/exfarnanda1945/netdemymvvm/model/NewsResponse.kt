@@ -1,4 +1,4 @@
-package com.exfarnanda1945.netdemymvvm
+package com.exfarnanda1945.netdemymvvm.model
 
 import com.google.gson.annotations.SerializedName
 

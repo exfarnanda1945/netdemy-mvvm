@@ -1,9 +1,10 @@
-package com.exfarnanda1945.netdemymvvm
+package com.exfarnanda1945.netdemymvvm.adapter
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
+import com.exfarnanda1945.netdemymvvm.model.ArticlesItem
 import com.exfarnanda1945.netdemymvvm.databinding.NewsItemBinding
 
 class NewsAdapter : RecyclerView.Adapter<NewsAdapter.MainViewHolder>() {
